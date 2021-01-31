@@ -1,0 +1,73 @@
+D:\项目\健身房winform2.0\bin\Debug\健身房winform2.0.exe.config
+D:\项目\健身房winform2.0\bin\Debug\健身房winform2.0.exe
+D:\项目\健身房winform2.0\bin\Debug\健身房winform2.0.pdb
+D:\项目\健身房winform2.0\bin\Debug\CSkin.dll
+D:\项目\健身房winform2.0\bin\Debug\CSkin.xml
+D:\项目\健身房winform2.0\obj\Debug\健身房winform2._0.Form1.resources
+D:\项目\健身房winform2.0\obj\Debug\健身房winform2.0.csproj.GenerateResource.cache
+D:\项目\健身房winform2.0\obj\Debug\健身房winform2.0.csproj.CoreCompileInputs.cache
+D:\项目\健身房winform2.0\obj\Debug\健身房winform2.0.csproj.CopyComplete
+D:\项目\健身房winform2.0\obj\Debug\健身房winform2.0.exe
+D:\项目\健身房winform2.0\obj\Debug\健身房winform2.0.pdb
+D:\项目\健身房winform2.0\obj\Debug\健身房winform2._0.register.resources
+D:\项目\健身房winform2.0\obj\Debug\健身房winform2._0.Forms.Properties.Resources.resources
+D:\项目\健身房winform2.0\obj\Debug\健身房winform2._0.From_zhu.resources
+D:\项目\健身房winform2.0\obj\Debug\健身房winform2.0.csprojAssemblyReference.cache
+D:\项目\健身房winform2.0\bin\Debug\BLL.dll
+D:\项目\健身房winform2.0\bin\Debug\DAL.dll
+D:\项目\健身房winform2.0\bin\Debug\BLL.pdb
+D:\项目\健身房winform2.0\bin\Debug\DAL.pdb
+D:\项目\健身房winform2.0\obj\Debug\健身房winform2._0.Forms.showdata.resources
+D:\项目\健身房winform2.0\obj\Debug\健身房winform2._0.Forms.usermanager.resources
+D:\项目\健身房winform2.0\obj\Debug\健身房winform2._0.Forms.useradd.resources
+D:\项目\健身房winform2.0\obj\Debug\健身房winform2._0.Forms.modifyuser.resources
+D:\项目\健身房winform2.0\obj\Debug\健身房winform2._0.Forms.floatxg.resources
+D:\项目\健身房winform2.0\bin\Debug\Bunifu.UI.WinForms.1.5.3.dll
+D:\项目\健身房winform2.0\bin\Debug\Bunifu.Licensing.dll
+D:\项目\健身房winform2.0\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+D:\项目\健身房winform2.0\obj\Debug\健身房winform2._0.Forms.use.usezhu.resources
+D:\项目\健身房winform2.0\obj\Debug\健身房winform2._0.Forms.use.ipone.resources
+D:\项目\健身房winform2.0\obj\Debug\健身房winform2._0.Forms.use.xguse.resources
+D:\项目\健身房winform2.0\obj\Debug\健身房winform2._0.Forms.confirmzhu2.resources
+D:\项目\健身房winform2.0\obj\Debug\健身房winform2._0.Forms.use.confirmuse.resources
+D:\项目\健身房winform2.0\obj\Debug\健身房winform2._0.Forms.use.useincome.resources
+D:\项目\健身房winform2.0\bin\Debug\健身房winform2.0.exe.manifest
+D:\项目\健身房winform2.0\bin\Debug\健身房winform2.0.application
+D:\项目\健身房winform2.0\obj\Debug\健身房winform2.0.exe.manifest
+D:\项目\健身房winform2.0\obj\Debug\健身房winform2.0.application
+C:\Users\linyixin\Desktop\健身房winform2.0 (6)\bin\Debug\健身房winform2.0.exe.config
+C:\Users\linyixin\Desktop\健身房winform2.0 (6)\bin\Debug\健身房winform2.0.exe.manifest
+C:\Users\linyixin\Desktop\健身房winform2.0 (6)\bin\Debug\健身房winform2.0.application
+C:\Users\linyixin\Desktop\健身房winform2.0 (6)\bin\Debug\健身房winform2.0.exe
+C:\Users\linyixin\Desktop\健身房winform2.0 (6)\bin\Debug\健身房winform2.0.pdb
+C:\Users\linyixin\Desktop\健身房winform2.0 (6)\bin\Debug\BLL.dll
+C:\Users\linyixin\Desktop\健身房winform2.0 (6)\bin\Debug\CSkin.dll
+C:\Users\linyixin\Desktop\健身房winform2.0 (6)\bin\Debug\DAL.dll
+C:\Users\linyixin\Desktop\健身房winform2.0 (6)\bin\Debug\Bunifu.Licensing.dll
+C:\Users\linyixin\Desktop\健身房winform2.0 (6)\bin\Debug\BLL.pdb
+C:\Users\linyixin\Desktop\健身房winform2.0 (6)\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+C:\Users\linyixin\Desktop\健身房winform2.0 (6)\bin\Debug\CSkin.xml
+C:\Users\linyixin\Desktop\健身房winform2.0 (6)\bin\Debug\DAL.pdb
+C:\Users\linyixin\Desktop\健身房winform2.0 (6)\obj\Debug\健身房winform2.0.csprojAssemblyReference.cache
+C:\Users\linyixin\Desktop\健身房winform2.0 (6)\obj\Debug\健身房winform2._0.Forms.confirmzhu2.resources
+C:\Users\linyixin\Desktop\健身房winform2.0 (6)\obj\Debug\健身房winform2._0.Forms.floatxg.resources
+C:\Users\linyixin\Desktop\健身房winform2.0 (6)\obj\Debug\健身房winform2._0.Form1.resources
+C:\Users\linyixin\Desktop\健身房winform2.0 (6)\obj\Debug\健身房winform2._0.From_zhu.resources
+C:\Users\linyixin\Desktop\健身房winform2.0 (6)\obj\Debug\健身房winform2._0.Forms.modifyuser.resources
+C:\Users\linyixin\Desktop\健身房winform2.0 (6)\obj\Debug\健身房winform2._0.Forms.Properties.Resources.resources
+C:\Users\linyixin\Desktop\健身房winform2.0 (6)\obj\Debug\健身房winform2._0.register.resources
+C:\Users\linyixin\Desktop\健身房winform2.0 (6)\obj\Debug\健身房winform2._0.Forms.showdata.resources
+C:\Users\linyixin\Desktop\健身房winform2.0 (6)\obj\Debug\健身房winform2._0.Forms.useradd.resources
+C:\Users\linyixin\Desktop\健身房winform2.0 (6)\obj\Debug\健身房winform2._0.Forms.usermanager.resources
+C:\Users\linyixin\Desktop\健身房winform2.0 (6)\obj\Debug\健身房winform2._0.Forms.use.confirmuse.resources
+C:\Users\linyixin\Desktop\健身房winform2.0 (6)\obj\Debug\健身房winform2._0.Forms.use.ipone.resources
+C:\Users\linyixin\Desktop\健身房winform2.0 (6)\obj\Debug\健身房winform2._0.Forms.use.useincome.resources
+C:\Users\linyixin\Desktop\健身房winform2.0 (6)\obj\Debug\健身房winform2._0.Forms.use.usezhu.resources
+C:\Users\linyixin\Desktop\健身房winform2.0 (6)\obj\Debug\健身房winform2._0.Forms.use.xguse.resources
+C:\Users\linyixin\Desktop\健身房winform2.0 (6)\obj\Debug\健身房winform2.0.csproj.GenerateResource.cache
+C:\Users\linyixin\Desktop\健身房winform2.0 (6)\obj\Debug\健身房winform2.0.csproj.CoreCompileInputs.cache
+C:\Users\linyixin\Desktop\健身房winform2.0 (6)\obj\Debug\健身房winform2.0.exe.manifest
+C:\Users\linyixin\Desktop\健身房winform2.0 (6)\obj\Debug\健身房winform2.0.application
+C:\Users\linyixin\Desktop\健身房winform2.0 (6)\obj\Debug\健身房winform2.0.csproj.CopyComplete
+C:\Users\linyixin\Desktop\健身房winform2.0 (6)\obj\Debug\健身房winform2.0.exe
+C:\Users\linyixin\Desktop\健身房winform2.0 (6)\obj\Debug\健身房winform2.0.pdb

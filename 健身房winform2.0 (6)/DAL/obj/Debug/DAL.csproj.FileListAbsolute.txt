@@ -1,0 +1,12 @@
+D:\项目\健身房winform2.0\DAL\bin\Debug\DAL.dll
+D:\项目\健身房winform2.0\DAL\bin\Debug\DAL.pdb
+D:\项目\健身房winform2.0\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+D:\项目\健身房winform2.0\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\项目\健身房winform2.0\DAL\obj\Debug\DAL.dll
+D:\项目\健身房winform2.0\DAL\obj\Debug\DAL.pdb
+C:\Users\linyixin\Desktop\健身房winform2.0 (6)\DAL\bin\Debug\DAL.dll
+C:\Users\linyixin\Desktop\健身房winform2.0 (6)\DAL\bin\Debug\DAL.pdb
+C:\Users\linyixin\Desktop\健身房winform2.0 (6)\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\linyixin\Desktop\健身房winform2.0 (6)\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\linyixin\Desktop\健身房winform2.0 (6)\DAL\obj\Debug\DAL.dll
+C:\Users\linyixin\Desktop\健身房winform2.0 (6)\DAL\obj\Debug\DAL.pdb

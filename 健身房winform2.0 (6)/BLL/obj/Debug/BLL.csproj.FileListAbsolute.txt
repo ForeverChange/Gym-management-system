@@ -1,0 +1,18 @@
+D:\项目\健身房winform2.0\BLL\bin\Debug\BLL.dll
+D:\项目\健身房winform2.0\BLL\bin\Debug\BLL.pdb
+D:\项目\健身房winform2.0\BLL\bin\Debug\DAL.dll
+D:\项目\健身房winform2.0\BLL\bin\Debug\DAL.pdb
+D:\项目\健身房winform2.0\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
+D:\项目\健身房winform2.0\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+D:\项目\健身房winform2.0\BLL\obj\Debug\BLL.csproj.CopyComplete
+D:\项目\健身房winform2.0\BLL\obj\Debug\BLL.dll
+D:\项目\健身房winform2.0\BLL\obj\Debug\BLL.pdb
+C:\Users\linyixin\Desktop\健身房winform2.0 (6)\BLL\bin\Debug\BLL.dll
+C:\Users\linyixin\Desktop\健身房winform2.0 (6)\BLL\bin\Debug\BLL.pdb
+C:\Users\linyixin\Desktop\健身房winform2.0 (6)\BLL\bin\Debug\DAL.dll
+C:\Users\linyixin\Desktop\健身房winform2.0 (6)\BLL\bin\Debug\DAL.pdb
+C:\Users\linyixin\Desktop\健身房winform2.0 (6)\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
+C:\Users\linyixin\Desktop\健身房winform2.0 (6)\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\linyixin\Desktop\健身房winform2.0 (6)\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\Users\linyixin\Desktop\健身房winform2.0 (6)\BLL\obj\Debug\BLL.dll
+C:\Users\linyixin\Desktop\健身房winform2.0 (6)\BLL\obj\Debug\BLL.pdb
